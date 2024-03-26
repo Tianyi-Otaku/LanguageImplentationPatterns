@@ -1,0 +1,4 @@
+﻿  Token.cpp
+D:\T1Otaku\LanguageImplentationPatterns\LanguageImplentationPatterns\LanguageImplentationPatterns\include\Token.h(15,32): warning C4227: 使用了记时错误: 忽略引用上的限定符
+D:\T1Otaku\LanguageImplentationPatterns\LanguageImplentationPatterns\LanguageImplentationPatterns\src\Token.cpp(8,38): warning C4227: 使用了记时错误: 忽略引用上的限定符
+  LanguageImplentationPatterns.vcxproj -> D:\T1Otaku\LanguageImplentationPatterns\LanguageImplentationPatterns\x64\Debug\LanguageImplentationPatterns.exe
