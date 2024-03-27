@@ -9,7 +9,7 @@ class Lexer
 	long n;
 	long current;
 	void consume();
-	void lexerBuffer(unsigned char* input, long n);
+	void lexerBuffer(unsigned char* input, long n);//»º³åÇø
 	//Æ¥Åä¼¯
 	bool isWS();
 	bool isNUMBER();

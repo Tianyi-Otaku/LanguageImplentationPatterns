@@ -18,6 +18,7 @@ void Lexer::consume() {
 //公开方法
 Lexer::Lexer(std::string data) {
 	lexerBuffer((unsigned char*)data.c_str(), data.size());
+
 }
 //Lexer::Lexer(std::fstream file) {
 	//TODO

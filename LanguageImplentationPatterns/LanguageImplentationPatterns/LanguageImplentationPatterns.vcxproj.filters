@@ -24,7 +24,7 @@
     <ClCompile Include="src\Lexer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Parser.cpp">
+    <ClCompile Include="src\Parser.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -35,7 +35,7 @@
     <ClInclude Include="include\Lexer.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Parser.h">
+    <ClInclude Include="include\Parser.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
